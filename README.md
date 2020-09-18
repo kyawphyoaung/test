@@ -1,6 +1,5 @@
 # CP3402-2020
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
+
 ## Assignment 2 - Group 5
 
 | Name | Email |
@@ -12,8 +11,16 @@
 | Nan A Hwan | nanahwan@my.jcu.edu.au |
 
 <br/>
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
-# About this website
+# About this site
+Doctors Connect website aims to link up healthcare professionals all around Malaysia and the Asia Pacific region and also provide opportunities to work with other countries. This website is also the showcase of work through different groups all over Asia Pacific region and more importantly, share stories of love and transformation by volunteers.
+
+<br/>
+
+# Website Workflow
+
 The "Doctors Connect" content management system (CMS) website is developed with systematic process managment, workflow, data automation and communication by delivering a cooperative environment for content sharing.
 
 Website Links:
